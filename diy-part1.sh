@@ -76,7 +76,7 @@ git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 ##############################################################################################
 
