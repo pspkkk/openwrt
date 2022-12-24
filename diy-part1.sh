@@ -37,7 +37,7 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 #  系统
 
 #定时重启
-#git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
+git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
 #ttyd lede包已有
 
