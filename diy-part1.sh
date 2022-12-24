@@ -92,3 +92,9 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 #Turbo ACC 加速 lede包已有
 
 ##############################################################################################
+
+# 易有云
+
+git clone https://github.com/kiddin9/linkease.git package/linkease
+
+##############################################################################################
