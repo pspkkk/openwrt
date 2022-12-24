@@ -54,10 +54,10 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 # 服务
 
 #docker
-git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #ShadowSocksR Plus+
-git clone https://github.com/fw876/helloworld.git package/helloworld
+#git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #passwall
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
@@ -68,9 +68,9 @@ git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci
 #git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-passwall2
 
 #helloword
-git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
-git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
-git clone https://github.com/fw876/helloworld.git package/helloworld
+#git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+#git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
+#git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #openclash
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
