@@ -93,7 +93,3 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 
 ##############################################################################################
 
-# 易有云
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-linkease package/luci-app-linkease
-
-##############################################################################################
